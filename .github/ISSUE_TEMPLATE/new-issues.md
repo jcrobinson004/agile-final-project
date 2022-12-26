@@ -7,18 +7,18 @@ assignees: ''
 
 ---
 
-###User Story:
+### User Story:
 ```
 As a ...
 I need ...
 so that ...
 ```
-###Details & Assumptions:
+### Details & Assumptions:
 ```
 #
 #
 ```
-###Acceptance Criteria:
+### Acceptance Criteria:
 ```
 Given...
 When...
